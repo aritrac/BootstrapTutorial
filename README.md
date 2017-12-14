@@ -44,5 +44,23 @@ success,info,warning and danger. Muted is not there in background colors
 BSTextTypography_11.html :
 This shows using a 'lead' class to make a paragraph stand out
 
-BSTextTypography_11.html :
+BSTextTypography_12.html :
 This shows how to Use the .small class to make the text smaller:
+
+BSTextTypography_13.html :
+This shows how to align and justify text. Also it demonstrates how 'no-wrap' behaviour works
+
+BSTextTypography_14.html :
+This shows how to make text lower upper cased and capitalize it using style classes
+
+BSTextTypography_15.html :
+This shows how to make 'abbr' text slightly smaller
+
+BSTextTypography_16.html :
+This shows how to make list of items inline
+
+BSTextTypography_17.html :
+This shows how to make 'dl' element with dt and dd inline
+
+BSTextTypography_18.html :
+This shows how to make a 'pre' tag content scrollable
