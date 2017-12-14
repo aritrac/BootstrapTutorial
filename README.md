@@ -8,3 +8,41 @@ This shows a sample page in bootstrap with responsive full width container
 
 BSGridBasics_01.html :
 This shows a sample page with the various form factors for column spacing with xs, sm, md, lg
+
+BSTextTypography_01.html :
+This shows various headers available from h1 to h6
+
+BSTextTypography_02.html :
+This shows the use of 'small' tag to make secondary text lighter
+
+BSTextTypography_03.html :
+This shows the use of 'mark' tag to highlight secondary text
+
+BSTextTypography_04.html :
+This shows the use of 'abbr' tag to add a hint to a piece of text
+
+BSTextTypography_05.html :
+This shows the use of 'blockquote' tag to highlight lines or paragraphs from another source. This is done in both forward and backward directions
+
+BSTextTypography_06.html :
+This shows the use of 'dl' description element with 'dt' description title and 'dd' description element
+
+BSTextTypography_07.html :
+This shows the use of 'code' tag and how BS styles it
+
+BSTextTypography_08.html :
+This shows the use of 'kbd' tag and how BS styles it
+
+BSTextTypography_09.html :
+This shows the use of 'pre' tag and how BS styles it
+
+BSTextTypography_10.html :
+This shows the various contextual colors and backgrounds using style classes for text colors such as muted,
+primary,success,information,warning and danger. It also shows the classes for background colors for primary,
+success,info,warning and danger. Muted is not there in background colors
+
+BSTextTypography_11.html :
+This shows using a 'lead' class to make a paragraph stand out
+
+BSTextTypography_11.html :
+This shows how to Use the .small class to make the text smaller:
