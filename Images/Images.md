@@ -16,3 +16,16 @@ This contains code on how to make use of Bootstraps grid system and .thumbnail c
 
 BSImages_06.html
 How to let videos or slideshows scale properly on any device
+
+BSImages_Exercise1.html
+Use a Bootstrap class to shape the image to a circle
+
+BSImages_Exercise2.html
+Add rounded corners to the image
+
+BSImages_Exercise3.html
+Shape the image to a thumbnail
+
+BSImages_Exercise4.html
+Make the image responsive
+Resize the browser to see the effect
