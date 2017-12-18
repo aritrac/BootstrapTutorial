@@ -23,3 +23,16 @@ How to create a split button dropdown
 
 BSButton-Groups_Exercise01.html
 Group the buttons together
+
+BSButton-Groups_Exercise02.html
+Make all buttons in the group LARGE with a single class
+
+BSButton-Groups_Exercise03.html
+Create a vertical button group of the buttons below
+
+BSButton-Groups_Exercise04.html
+Justify the button group: make them span the entire width of the screen
+
+BSButton-Groups_Exercise05.html
+Add the dropdown-toggle class and the data-toggle="dropdown" attribute to the Sony button
+to create a dropdown menu.
