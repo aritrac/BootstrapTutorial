@@ -1,10 +1,10 @@
-#BSPagination_01.html
+# BSPagination_01.html
 *To create a basic pagination*
 
-#BSPagination_02.html
+# BSPagination_02.html
 *Setting one of the pagination hyperlinks to active*
 
-#BSPagination_03.html
+# BSPagination_03.html
 *Setting one of the pagination hyperlinks to deactive state*
 
 # BSPagination_04.html
