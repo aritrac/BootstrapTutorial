@@ -20,3 +20,16 @@
 *Creating custom content within the list group items*
 
 # BSListGroups_Exercise01.html
+*Use the elements below to create a basic Bootstrap List Group*
+
+# BSListGroups_Exercise02.html
+*Use the list below to make a list group with linked items*
+
+# BSListGroups_Exercise03.html
+*Disable the first item in the list*
+
+# BSListGroups_Exercise04.html
+*Use contextual classes to make the first item green, the second item yellow and the third red*
+
+# BSListGroups_Exercise05.html
+*Add the active state to the first list item*
